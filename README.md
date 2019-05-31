@@ -5,7 +5,9 @@ By: Katja Wittfoth, Hai Vu Le, Donya Fozoonmayeh and Diane Woodbridge
 This is a research project in cooperation with professor Diane Woodbridge at University of San Francisco.
 My team and I were presenting our project's result at [Data Institute SF Conference 2019](https://www.sfdatainstitute.org/). We have submitted a scientific paper which is currently in review. Our work is built upon and continuation of the [project](https://www.ncbi.nlm.nih.gov/pubmed/30441452) which was published Jul 2018.
 
-![Pipeline](/imgages/smartwatch.png)  
+<div align="left">
+    <img src="/imgages/smartwatch.png",style="height:50px;"> 
+</div>
 <br>
 ## Research Overview
 This research aims to detect medication intake based on accelerometer and gyroscope
@@ -42,7 +44,9 @@ database system, and then use SparkML for machine
 learning modeling and prediction.
 <br>
 
-![Pipeline](/imgages/pipeline.png)  
+<div align="left">
+    <img src="/imgages/pipeline.png",style="height:50px;"> 
+</div>
 <br>
 ## Results
 We trained various machine learning models
