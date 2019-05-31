@@ -6,7 +6,7 @@ This is a research project in cooperation with professor Diane Woodbridge at Uni
 My team and I were presenting our project's result at [Data Institute SF Conference 2019](https://www.sfdatainstitute.org/). We have submitted a scientific paper which is currently in review. Our work is built upon and continuation of the [project](https://www.ncbi.nlm.nih.gov/pubmed/30441452) which was published Jul 2018.
 
 <div align="left">
-    <img src="/imgages/smartwatch.png",style="height:50px;"> 
+    <img src="/images/smartwatch.png",style="height:50px;"> 
 </div>
 <br>
 ## Research Overview
@@ -45,7 +45,7 @@ learning modeling and prediction.
 <br>
 
 <div align="left">
-    <img src="/imgages/pipeline.png",style="height:50px;"> 
+    <img src="/images/pipeline.png",style="height:50px;"> 
 </div>
 <br>
 ## Results
