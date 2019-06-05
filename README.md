@@ -3,7 +3,7 @@ By: Katja Wittfoth, Hai Vu Le, Donya Fozoonmayeh and Diane Woodbridge
 <br>
 
 This is a research project in cooperation with professor Diane Woodbridge at University of San Francisco.
-My team and I presented our project's result at [Data Institute SF Conference 2019](https://www.sfdatainstitute.org/). We have submitted a scientific paper which is currently in review. Our work is built upon and continuation of the [project](https://www.ncbi.nlm.nih.gov/pubmed/30441452) which was published Jul 2018.
+My team and I presented our project's result at the [Data Institute SF Conference 2019](https://www.sfdatainstitute.org/). We have submitted a scientific paper which is currently in review. Our work is built upon and continuation of the [project](https://www.ncbi.nlm.nih.gov/pubmed/30441452) which was published Jul 2018.
 
 <p align="center">
     <img src="/images/smartwatch.png", align="middle" width=700"> 
